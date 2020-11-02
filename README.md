@@ -5,7 +5,7 @@ I am a Java development engineer from China.
 # Personal blog
 [CSDN](https://blog.csdn.net/minkeyto)
 
-[灵熙云工作室 - 实践出真理](https://www.goitman.cn/)
+[灵熙云工作室](https://www.goitman.cn/)
 
 
 # Warehouse statistics
