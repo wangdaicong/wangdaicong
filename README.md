@@ -1,5 +1,6 @@
 ### Hi there 👋
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangdaicong)
+![](https://github-readme-stats.vercel.app/api?username=wangdaicong)
+
 
